@@ -1,0 +1,1 @@
+"I've only done basic testing after building this and don't know how to properly test for bugs. If there are any issues, feel free to modify as long as it doesn't violate the rules. I've written some basic instructions in the" 移交文档 ", but it's in Simplified Chinese (you can't expect me to be fluent in English — machine translation can be a real disaster)
